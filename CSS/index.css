@@ -1,0 +1,20 @@
+.cuerpo{
+    font-size: 14px;
+    border-radius: 20px;
+    background-color: #202020;
+    color: #DE9C18;
+    padding: 30px;
+    margin: 20px;
+}
+
+.Title{
+    color: #E8E100;
+}
+
+.New{
+    color: aliceblue;
+}
+
+.New2{
+    background-color: black;
+}
